@@ -188,7 +188,7 @@ function App() {
               <div className="af-class-left_side">
                 <h4 className="af-class-h1">EVERYTHING ABOUT EVERYTHING ON NFTs</h4>
                 <p className="af-class-curated">Curated, filtered &amp; overdelivered.</p>
-                <a href="url"  className="af-class-h1"
+                <a href="https://polygonscan.com/address/0xceacec7383f7edbbcc585b5c9b1777b05161c53e" target="_blank" className="af-class-h1 "
                 style={{color:"#c4fd38", fontSize:"17px", textDecoration: "none"}}
                 >{truncate(CONFIG.CONTRACT_ADDRESS, 50)}</a>
                  <p className="af-class-curated">1 NFT costs 332 MATIC.</p>
