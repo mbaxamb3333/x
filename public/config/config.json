@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCeaCEC7383F7edBbCC585b5C9B1777B05161c53e",
+  "SCAN_LINK": "https://polygonscan.com/address/0xceacec7383f7edbbcc585b5c9b1777b05161c53e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The NFTist",
+  "SYMBOL": "NFTist",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 332000000000000000000,
+  "DISPLAY_COST": 332,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-nftist",
+  "SHOW_BACKGROUND": false
+}
