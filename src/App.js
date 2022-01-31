@@ -134,31 +134,7 @@ function App() {
     setMintAmount(newMintAmount);
   };
 
-  // const checkIfWhiteListed = async() => {
-  //   // console.log((blockchain.account))
-  //   const query = new Moralis.Query(Whitelist)
-  //   var blockchainAddress = blockchain.account
-  //   const x = blockchainAddress.toLowerCase();
-  //   console.log("value of address lowercased")
-  //   console.log(x)
-  //   query.equalTo("whiteListAddress", x)
-  //   const result = await query.find();
-  //   console.log("result from within the function")
-  //   console.log(blockchain.account)
-  //   console.log("number of entries in db")
-  //   console.log(result.length)
-  //   // console.log(result)
-  //   // console.log(result.length)
-  //   // if(result.length != 0)
-  //   //   return 0;
-  //   // else
-  //   //   return 1;
-  //   setWhitelisted(result.length)
-  // }
-
-
-
-
+ 
 
 
 
@@ -251,7 +227,7 @@ function App() {
                      }}
                      >-</button>
                    </div>
-                   <div className="af-class-box" style={{alignment:"centre"}}>
+                   <div className="af-class-box" style={{alignment:"centre", width:"auto"}}>
                      <div id="js-clock-minutes" className="af-class-clock-number" style={{alignment:"centre"}}> {mintAmount} </div>
 
 
@@ -260,7 +236,7 @@ function App() {
                        <div style={{alignment:"centre"}}>
                          
                          <button
-                      style={{backgroundColor:"transparent", width:"300px", alignment:"centre" ,paddingTop:"10px" ,fontSize:"40px"}}
+                      style={{backgroundColor:"transparent", width:"auto", alignment:"centre" ,paddingTop:"10px" ,fontSize:"40px"}}
                       className="af-class-clock-label"
                       onClick={(e) => {
 
@@ -307,7 +283,7 @@ function App() {
                        style={{alignment:"centre"}}>
                          
                          <button
-                      style={{backgroundColor:"transparent"}}
+                      style={{backgroundColor:"blue"}}
                       className="af-class-clock-label"
                        disabled={claimingNft ? 1 : 0}
                        onClick={(e) => {
@@ -379,23 +355,6 @@ function App() {
 
 
 
-
-
-
-                {/* <div className="af-class-div-block-2">
-                  <div id="js-clock" className="af-class-js-clock">
-                    <div className="af-class-box">
-                      <div id="js-clock-hours" className="af-class-clock-number">-</div>
-                    </div>
-                    <div className="af-class-box">
-                      <div id="js-clock-minutes" className="af-class-clock-number">0</div>
-                      <h3 className="af-class-abstractabstract">Mint your NFT</h3>
-                    </div>
-                    <div className="af-class-box">
-                      <div id="js-clock-seconds" className="af-class-clock-number">+</div>
-                    </div>
-                  </div>
-                </div> */}
               </div>
             </div>
           </div>
@@ -407,7 +366,7 @@ function App() {
                 <h3 className="af-class-abstractabstract">ABSTRACT</h3><img src="images/Energy-1.png" loading="lazy" alt className="af-class-image-4" />
               </div>
               <p className="af-class-parafa af-class-newpara">The project was first initiated due to a vital necessity of the NFT space, which had to be dealt with. NFTs have been bought and sold since the ERC-721 protocol. Along the way, we’ve noticed that the means of searching information were taking place on Google, with the end results being met after a long period of time. By being endlessly redirected to other platforms such as Youtube, Telegram and others, &nbsp;the user ended up with a considerable loss of money and poor decision making. Once we became aware of the errors, and that Google is ultimately a search engine and not an authority of the NFT space, the change process had started. Being a global, unsolved and daily encountered issue, we conducted an analysis, and got to the conclusion that search engines can also provide irrelevant and, in this case, useless information, as a result of paid ads and non-curated content. Furthermore, it also takes up a lot of energy and time until someone can actually finish their research or end up identifying valuable, trustworthy NFT projects which deserve investing in. And this is how this challenging adventure of ours started.</p>
-              <a href="https://litepaper.thenftist.com/litepaper.pdf" target="_blank" className="af-class-join-discord af-class-litepaper">LITEPAPER</a>
+              <a href="https://litepaper.thenftist.com/litepaper-thenftist.pdf" target="_blank" className="af-class-join-discord af-class-litepaper">LITEPAPER</a>
             </div>
             <div className="af-class-abstract af-class-second_addpahta">
               <div className="af-class-asphalt_roe af-class-dddsds"><img src="images/Energy.png" loading="lazy" alt className="af-class-image-5" />
