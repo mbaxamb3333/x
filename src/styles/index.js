@@ -11,7 +11,11 @@ const styles = [
   },
   {
     type: 'href',
-    body: '/css/the-nftist-570236cba5e431591bb69af0c978.webflow.css',
+    body: '/css/the-nftist-570236cba5e431-fe7c05599833c.webflow.css',
+  },
+  {
+    type: 'sheet',
+    body: '.af-view .af-class-image-2{background-color:rgba(0,0,0,.6);border-radius:10px}.af-view .af-class-Sticky_Header{position:fixed;top:0;width:100%;z-index:9;left:0;right:0;margin-top:0;padding:6px 32px}.af-view .af-class-Sticky_Header a.af-class-brand.w-nav-brand img{width:82px}.af-view .af-class-dropdown-toggle.w--open .af-class-icon.w-icon-dropdown-toggle{transform:rotate(-180deg);transition:all ease-in-out .3s}.af-view .af-class-Sticky_Header a.af-class-menuuss.af-class-mint-now{padding-top:23px;padding-bottom:22px;font-size:15px}.af-view .af-class-Sticky_Header a.af-class-menuuss{font-size:19px}.af-view .af-class-dropdown-toggle.w--open .af-class-text-block.af-class-drpodowwnnw{color:#000;font-size:91.86px}@media screen and (max-width:600px){.af-view{max-width:100%;overflow-x:hidden!important}.af-view #demo{font-size:148px!important}.af-view .af-class-dropdown-toggle.w--open .af-class-text-block.af-class-drpodowwnnw{color:#000;font-size:24px}.af-view .af-class-Sticky_Header{position:unset}.af-view .af-class-dropdown-toggle.w--open .af-class-text-block.af-class-drpodowwnnw{color:#000}}',
   },
 ]
 
