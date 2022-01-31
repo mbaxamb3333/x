@@ -926,10 +926,10 @@ function App() {
               <a href="https://twitter.com/thenftist" className="w-inline-block"><img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/twitter-1_1twitter%201.png" loading="lazy" alt className="af-class-image-9" /></a>
             </div>
             <div className="af-class-ivoocn-ara af-class-_2">
-              <a href="privacy-policy.html" className="af-class-link-block-2 w-inline-block">
+              <a href="https://the-nftist.webflow.io/privacy-policy" className="af-class-link-block-2 w-inline-block">
                 <div className="af-class-text-block-3">Privacy Policy</div>
               </a>
-              <a href="terms-and-conditions.html" className="af-class-link-block-3 w-inline-block">
+              <a href="https://the-nftist.webflow.io/terms-and-conditions" className="af-class-link-block-3 w-inline-block">
                 <div className="af-class-text-block-3">Terms and Conditions</div>
               </a>
             </div>
