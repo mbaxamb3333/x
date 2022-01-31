@@ -442,7 +442,11 @@ function App() {
         <div className="af-class-balll af-class-wf-section">
           <div className="af-class-container w-container">
             <div className="af-class-left_container">
-              <div className="w-layout-grid af-class-grid"><img src="images/1.jpeg" loading="lazy" sizes="(max-width: 1439px) 300px, 400px" srcSet="images/1-p-500.jpeg 500w, images/1-p-800.jpeg 800w, images/1-p-1080.jpeg 1080w, images/1-p-1600.jpeg 1600w, images/1.jpeg 2000w" alt className="af-class-left" /><img src="images/4.jpeg" loading="lazy" id="w-node-e96db595-81a5-6109-22f8-fbd7ca22f132-3ad1ff04" sizes="300px" srcSet="images/4-p-500.jpeg 500w, images/4-p-800.jpeg 800w, images/4-p-1080.jpeg 1080w, images/4-p-1600.jpeg 1600w, images/4.jpeg 2000w" alt className="af-class-right" /><img src="images/3.jpeg" loading="lazy" id="w-node-_364b15f0-e367-753f-73b6-66b7f729ea97-3ad1ff04" sizes="(max-width: 1439px) 300px, 500px" srcSet="images/3-p-500.jpeg 500w, images/3-p-800.jpeg 800w, images/3-p-1080.jpeg 1080w, images/3-p-1600.jpeg 1600w, images/3.jpeg 2000w" alt className="af-class-image-34" /><img src="images/2.jpeg" loading="lazy" id="w-node-_91acda23-0fb6-4197-97ba-83e4e46486a2-3ad1ff04" sizes="300px" srcSet="images/2-p-500.jpeg 500w, images/2-p-800.jpeg 800w, images/2-p-1080.jpeg 1080w, images/2-p-1600.jpeg 1600w, images/2.jpeg 2000w" alt className="af-class-right" /></div>
+              <div className="w-layout-grid af-class-grid">
+                <img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/1-p-800.jpeg" loading="lazy" sizes="(max-width: 1439px) 300px, 400px" alt className="af-class-left" />
+                <img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/2-p-800.jpeg" loading="lazy" id="w-node-e96db595-81a5-6109-22f8-fbd7ca22f132-3ad1ff04" sizes="300px" alt className="af-class-right" />
+                <img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/3-p-1080.jpeg" loading="lazy" id="w-node-_364b15f0-e367-753f-73b6-66b7f729ea97-3ad1ff04" sizes="(max-width: 1439px) 300px, 500px"  alt className="af-class-image-34" />
+                <img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/4-p-800.jpeg" loading="lazy" id="w-node-_91acda23-0fb6-4197-97ba-83e4e46486a2-3ad1ff04" sizes="300px"  alt className="af-class-right" /></div>
             </div>
             <div className="af-class-main_conatiner">
               <div className="af-class-image-box-meet af-class-ball-mobile-image"><img src="images/NFTs.png" loading="lazy" alt className="af-class-image-11 af-class-meet-ball-img" /></div>
@@ -525,14 +529,14 @@ function App() {
             </div>
             <div className="af-class-used_only_mobile">
               <div className="af-class-areaad">
-                <div className="af-class-ineer_boxed"><img src="https://uploads-ssl.webflow.com/61b371c26f7d3aa4c8ff91ef/61bd8e0af1d2fba68f3792e6_Group%20335.png"  alt className="af-class-image-27" />
+                <div className="af-class-ineer_boxed"><img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/x.png"  alt className="af-class-image-27" />
                   <h1 className="af-class-ffffff-ffffff">CURATED CONTENT PLATFORM</h1>
                   <div className="af-class-text-block-2">Our platform will include projects that cannot be found anywhere else, including daily news, in-depth articles, analysis, one minute podcasts and many more.</div>
                 </div>
                 <div className="af-class-div-block-5"><img src="images/Group-353_1Group-353.png" loading="lazy" alt className="af-class-image-28 af-class-cscc" /></div>
               </div>
               <div className="af-class-areaad">
-                <div className="af-class-ineer_boxed"><img src="https://uploads-ssl.webflow.com/61b371c26f7d3aa4c8ff91ef/61bd9af4784d389bdf3c6442_Group%20334.png" loading="lazy" alt className="af-class-image-27" />
+                <div className="af-class-ineer_boxed"><img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/y.png" loading="lazy" alt className="af-class-image-27" />
                   <h1 className="af-class-ffffff-ffffff">LIVE &amp; DIGITAL EVENTS</h1>
                   <div className="af-class-text-block-2">Being part of our ecosystem will give you the chance to meet high profile influencers, celebrities and leaders in the NFT industry. Our live events will take place in London, Dubai and USA.</div>
                 </div>
@@ -557,14 +561,14 @@ function App() {
               <div className="af-class-ecoroww">
                 <div className="af-class-text_eco">
                   <div className="af-class-boxesss">
-                    <div className="af-class-div-block-8"><img src="images/Group-335_1Group-335.png" loading="lazy" alt className="af-class-image-37" />
+                    <div className="af-class-div-block-8"><img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/x.png" loading="lazy" alt className="af-class-image-37" />
                       <h3 className="af-class-curated-content-platform">CURATED CONTENT PLATFORM</h3>
                       <div className="af-class-par">Our platform will include unique content, including daily news, in-depth articles, analysis, one minute podcasts and the exclusive NFT Launchpad and many more.</div>
                     </div>
                     <div className="af-class-div-block-9"><img src="images/Rectangle-195-2.png" loading="lazy" alt className="af-class-image-29" /></div>
                   </div>
                   <div className="af-class-div-block-7" />
-                  <div className="af-class-boxesss"><img src="images/Group-334_1Group-334.png" loading="lazy" alt />
+                  <div className="af-class-boxesss"><img src="https://raw.githubusercontent.com/mbaxamb3333/nftresources/main/y.png" loading="lazy" alt />
                     <div className="af-class-div-block-8">
                       <h3 className="af-class-curated-content-platform">LIVE &amp; DIGITAL EVENTS</h3>
                       <div className="af-class-par">Being part of our ecosystem will grant you the chance to meet high profile influencers, celebrities and leaders of the NFT industry. Our live events will take place in London, Dubai and the USA.</div>
